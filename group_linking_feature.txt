@@ -28,6 +28,3 @@ country_code
 bgp_prefix
 issuer_organization
 cert_finger_print
-labels
-Adversary
-File Class
