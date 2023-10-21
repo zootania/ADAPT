@@ -1,30 +1,15 @@
-URL
-ipaddress
-Windows FilePath_1
-Unix FilePath_2
-md5
-sha1
-sha256
-Ethereum
-Bitcoin
-EmailAddress
-SlackToken
-RSAprivatekey
-SSHDSAprivatekey
-SSHECprivatekey
-PGPprivatekeyblock
-GitHubToken
-GenericAPIKey
-GoogleAPIKey
-GoogleGCPServiceaccount
-GoogleGmailAPIKey
-GoogleGmailOAuth
-PayPalBraintreeAccessToken
-TwitterAccessToken
-TwitterOAuth
-service_serial_number
-asn
-country_code
-bgp_prefix
-issuer_organization
-cert_finger_print
+1,711 URLs
+712 Windows FilePaths
+18,793 Unix FilePaths
+114 Certificate Issuer Organisation
+3,508 Certificate Fingerprint
+131 Country Code
+2,713 ASNs
+6,443 BGP prefix
+2,694 IP addresses
+60,000 MD5 hashes
+950 Email Usernames
+395 Email Domains
+192 GoogleAPIKeys
+37 GoogleGmailOAuths
+12 Bitcoin addresses
